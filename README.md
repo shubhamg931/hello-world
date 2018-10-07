@@ -1,5 +1,5 @@
-# hello-world
-a repository
+# Hello-world
+A repository
 
-hello everyone
-I am Shubham Gupta..  i love coding and growing my knowledge with time...
+Hello everyone
+I am Shubham Gupta..  I love coding and growing my knowledge with time...
